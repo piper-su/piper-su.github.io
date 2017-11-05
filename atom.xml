@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://piper-su.github.io/"/>
-  <updated>2017-11-05T20:45:31.937Z</updated>
+  <updated>2017-11-05T20:57:14.046Z</updated>
   <id>https://piper-su.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LTE-Advanced下的基于码本和非码本的预编码</title>
+    <link href="https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/"/>
+    <id>https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/</id>
+    <published>2017-11-05T20:54:03.000Z</published>
+    <updated>2017-11-05T20:57:14.046Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="LTE-Advanced Protocol" scheme="https://piper-su.github.io/categories/LTE-Advanced-Protocol/"/>
+    
+    
+      <category term="LTE-A" scheme="https://piper-su.github.io/tags/LTE-A/"/>
+    
+      <category term="codebook" scheme="https://piper-su.github.io/tags/codebook/"/>
+    
+      <category term="precoding" scheme="https://piper-su.github.io/tags/precoding/"/>
+    
+  </entry>
   
   <entry>
     <title>安装OpenAI/gym时的若干问题</title>
@@ -37,9 +59,9 @@
       <category term="Reinforcement Learning" scheme="https://piper-su.github.io/categories/Reinforcement-Learning/"/>
     
     
-      <category term="RL" scheme="https://piper-su.github.io/tags/RL/"/>
-    
       <category term="linux" scheme="https://piper-su.github.io/tags/linux/"/>
+    
+      <category term="RL" scheme="https://piper-su.github.io/tags/RL/"/>
     
   </entry>
   
