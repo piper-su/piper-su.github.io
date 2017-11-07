@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>https://piper-su.github.io/2017/11/07/404/</loc>
+    <lastmod>2017-11-07T05:30:37.273Z</lastmod>
+    <data>
+        <display>
+        <title></title>
+        <pubTime>2017-11-07T05:30:37.273Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/</loc>
+    <lastmod>2017-11-05T21:04:17.274Z</lastmod>
+    <data>
+        <display>
+        <title>LTE-Advanced下的基于码本和非码本的预编码</title>
+        <pubTime>2017-11-05T20:54:03.000Z</pubTime>
+        
+        <tag>LTE-A</tag>
+         
+        <tag>codebook</tag>
+         
+        <tag>precoding</tag>
+         
+         
+           
+             
+              <breadCrumb title="LTE-Advanced" url="https://piper-su.github.io/categories/LTE-Advanced/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://piper-su.github.io/2017/11/06/20171106_install_openai_gym/</loc>
+    <lastmod>2017-11-05T20:45:31.937Z</lastmod>
+    <data>
+        <display>
+        <title>安装OpenAI/gym时的若干问题</title>
+        <pubTime>2017-11-05T20:01:32.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>RL</tag>
+         
+         
+           
+             
+              <breadCrumb title="Reinforcement Learning" url="https://piper-su.github.io/categories/Reinforcement-Learning/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>https://piper-su.github.io/2017/11/06/20171105_vmware_tools_problems/</loc>
+    <lastmod>2017-11-05T18:59:36.652Z</lastmod>
+    <data>
+        <display>
+        <title>在VMware的Ubuntu虚拟机安装VMware Tools的若干问题</title>
+        <pubTime>2017-11-05T17:24:57.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>VM</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="https://piper-su.github.io/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://piper-su.github.io/"/>
-  <updated>2017-11-05T20:57:14.046Z</updated>
+  <updated>2017-11-07T05:30:37.273Z</updated>
   <id>https://piper-su.github.io/</id>
   
   <author>
@@ -17,17 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>LTE-Advanced下的基于码本和非码本的预编码</title>
-    <link href="https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/"/>
-    <id>https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/</id>
-    <published>2017-11-05T20:54:03.000Z</published>
-    <updated>2017-11-05T20:57:14.046Z</updated>
+    <title></title>
+    <link href="https://piper-su.github.io/2017/11/07/404/"/>
+    <id>https://piper-su.github.io/2017/11/07/404/</id>
+    <published>2017-11-07T05:30:37.273Z</published>
+    <updated>2017-11-07T05:30:37.273Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="LTE-Advanced Protocol" scheme="https://piper-su.github.io/categories/LTE-Advanced-Protocol/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LTE-Advanced下的基于码本和非码本的预编码</title>
+    <link href="https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/"/>
+    <id>https://piper-su.github.io/2017/11/06/20171107_LTE_A_codebook_noncodebook_precoding/</id>
+    <published>2017-11-05T20:54:03.000Z</published>
+    <updated>2017-11-05T21:04:17.274Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="LTE-Advanced" scheme="https://piper-su.github.io/categories/LTE-Advanced/"/>
     
     
       <category term="LTE-A" scheme="https://piper-su.github.io/tags/LTE-A/"/>
